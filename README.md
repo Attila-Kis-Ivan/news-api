@@ -1,3 +1,3 @@
 # What is this project?
 
-Particular topics and sent them ny email.
+This app access news about articular topics and sent them ny email.
